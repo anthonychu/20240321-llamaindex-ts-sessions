@@ -1,0 +1,10 @@
+{
+	"dependencies": {
+		"@azure/identity": "^4.0.1",
+		"@types/uuid": "^9.0.8",
+		"dotenv": "^16.4.5",
+		"llamaindex": "^0.2.1",
+		"node-fetch": "^3.3.2",
+		"uuid": "^9.0.1"
+	}
+}
